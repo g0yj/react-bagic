@@ -2,13 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import AppProducts from './AppProducts';
-import AppCounter from './AppCounter';
+//import AppProducts from './AppProducts';
+//import AppCounter from './AppCounter';
+import 조건주는방법 from './bagic/react/조건주는방법';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <AppCounter />
+    <조건주는방법/>
   </React.StrictMode>
 );
 
