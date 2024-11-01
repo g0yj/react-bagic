@@ -1,6 +1,6 @@
 import React from "react"
 import 이벤트 from './이벤트';
-import Props사용방법 from "./props사용방법";
+import Props사용방법 from "./Props사용방법";
 /**
  * JSX 내부의 자바스크립트 표현식에서는 if문 사용이 불가-> {} 안에 조건부 연산자를 사용해보자
  * 
