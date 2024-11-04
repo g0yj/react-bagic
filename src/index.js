@@ -9,12 +9,13 @@ import reportWebVitals from './reportWebVitals';
 //import 객체사용방법 from './basic/react/객체사용방법'
 //import 배열상태관리 from './basic/react/배열상태관리'
 //import Reducer사용방법 from './basic/react/Reducer사용방법';
-import Immer사용방법 from './basic/react/Immer사용방법';
+//import Immer사용방법 from './basic/react/Immer사용방법';
+import Context사용방법 from './basic/react/Context사용방법';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Immer사용방법/>
+    <Context사용방법/>
   </React.StrictMode>
 );
 
